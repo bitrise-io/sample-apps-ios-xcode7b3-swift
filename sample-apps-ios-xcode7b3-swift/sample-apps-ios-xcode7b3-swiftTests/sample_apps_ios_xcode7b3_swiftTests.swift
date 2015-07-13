@@ -7,7 +7,6 @@
 //
 
 import XCTest
-@testable import git_github_com_bitrise_io_sample_apps_ios_xcode7b3_swift
 
 class sample_apps_ios_xcode7b3_swiftTests: XCTestCase {
     
